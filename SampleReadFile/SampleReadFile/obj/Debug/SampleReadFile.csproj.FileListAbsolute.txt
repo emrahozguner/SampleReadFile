@@ -1,0 +1,7 @@
+C:\Users\eozguner\source\repos\SampleReadFile\SampleReadFile\bin\Debug\SampleReadFile.exe.config
+C:\Users\eozguner\source\repos\SampleReadFile\SampleReadFile\bin\Debug\SampleReadFile.exe
+C:\Users\eozguner\source\repos\SampleReadFile\SampleReadFile\bin\Debug\SampleReadFile.pdb
+C:\Users\eozguner\source\repos\SampleReadFile\SampleReadFile\obj\Debug\SampleReadFile.csprojAssemblyReference.cache
+C:\Users\eozguner\source\repos\SampleReadFile\SampleReadFile\obj\Debug\SampleReadFile.csproj.CoreCompileInputs.cache
+C:\Users\eozguner\source\repos\SampleReadFile\SampleReadFile\obj\Debug\SampleReadFile.exe
+C:\Users\eozguner\source\repos\SampleReadFile\SampleReadFile\obj\Debug\SampleReadFile.pdb
